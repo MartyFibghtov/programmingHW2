@@ -1,0 +1,15 @@
+/Users/artem/RiderProjects/learn/learn/bin/Debug/net6.0/learn
+/Users/artem/RiderProjects/learn/learn/bin/Debug/net6.0/learn.deps.json
+/Users/artem/RiderProjects/learn/learn/bin/Debug/net6.0/learn.runtimeconfig.json
+/Users/artem/RiderProjects/learn/learn/bin/Debug/net6.0/learn.dll
+/Users/artem/RiderProjects/learn/learn/bin/Debug/net6.0/ref/learn.dll
+/Users/artem/RiderProjects/learn/learn/bin/Debug/net6.0/learn.pdb
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.csproj.AssemblyReference.cache
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.AssemblyInfoInputs.cache
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.AssemblyInfo.cs
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.csproj.CoreCompileInputs.cache
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.dll
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/ref/learn.dll
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.pdb
+/Users/artem/RiderProjects/learn/learn/obj/Debug/net6.0/learn.genruntimeconfig.cache
